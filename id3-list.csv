@@ -1,0 +1,21 @@
+TIT1,(CONTENTGROUP),"(Chapter )?[0-9]* - [A-Za-z0-9'\-, ]*"
+TALB,(ALBUM),Relinquished Realms
+TIT3,(SUBTITLE)Book 3 of the Noss Saga
+TPE1,(ARTIST),Joaquín Baldwin
+TPE2,(ALBUMARTIST),Joaquín Baldwin
+TCOM,(COMPOSER),Magnus Carlssen
+TCON,(GENRE),Fantasy
+TYER,(YEAR),2025
+COMM,(COMMENT),"Noss has awakened. Lago-Sterjall ventures west into the blue desert, where deceit threatens him and his newfound lover. Jiara-Kitjári journeys east, recruiting Banook and his bears to infiltrate the domes ransacked by the Negian Empire. All the while, the Red Stag assembles an army of behemoths, readying his final strike. Narrated by Magnus Carlssen, with music by Iain James Armour."
+DESC,(DESCRIPTION),"Noss has awakened. Lago-Sterjall ventures west into the blue desert, where deceit threatens him and his newfound lover. Jiara-Kitjári journeys east, recruiting Banook and his bears to infiltrate the domes ransacked by the Negian Empire. All the while, the Red Stag assembles an army of behemoths, readying his final strike. Narrated by Magnus Carlssen, with music by Iain James Armour."
+TDRL,(RELEASETIME),2025
+TPUB,(PUBLISHER),Paperbear
+TCOP,(COPYRIGHT),℗ 2025 Joaquín Baldwin
+MVNM,(MOVEMENTNAME),Noss Saga
+MVIN,(MOVEMENT),3
+TXXX,(SERIES)**,Noss Saga
+TXXX,(SERIES-PART)**,3
+TXXX,(TMP_GENRE1)**,Fantasy
+TRCK,(TRACK),[0-9]{2}\/[0-9]{2}
+
+#check that TYER is only YYYY and not full date (especially in MP3s)
