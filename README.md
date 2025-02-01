@@ -2,8 +2,8 @@
 
 A command-line utility to verify ID3 metadata tags in audio files against expected values. Currently supports MP3, with WAV support coming soon.
 
-###changelog
-- 2025-02-01: first release. supports mp3 only. open bug reports and feature requests at https://github.com/mcarlssen/check-id3/issues
+#### changelog
+`2025-02-01`: first release. supports mp3 only. open bug reports and feature requests at https://github.com/mcarlssen/check-id3/issues
 
 ## Features
 - Verify ID3 tags in audio files across directories
@@ -11,6 +11,8 @@ A command-line utility to verify ID3 metadata tags in audio files against expect
 - Supports regex expressions for expected tag values
 - Detailed validation reports
 - Flexible input options (command-line arguments or interactive prompts)
+
+A sample tag definition file is included in the repository.
 
 ## Installation
 
